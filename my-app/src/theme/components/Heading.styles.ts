@@ -14,5 +14,11 @@ export const HeadingStyles: ComponentStyleConfig = {
       fontSize: "3rem",
       lineHeight: "3.2rem",
     },
+    h3: {
+      fontStyle: "normal",
+      fontWeight: "400",
+      fontSize: "2.5rem",
+      lineHeight: "2.75rem",
+    },
   },
 };
