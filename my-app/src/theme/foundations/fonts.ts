@@ -1,5 +1,5 @@
 export const fonts = {
-  body: "'Barlow', sans-serif",
-  heading: "'Barlow', sans-serif",
+  body: "'Archivo', sans-serif",
+  heading: "'Archivo', sans-serif",
   mono: "Menlo, monospace",
 };
